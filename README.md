@@ -32,4 +32,3 @@ Generated images will be saved in the images/ directory every 10 epochs. The mod
 
 Acknowledgments:
 This implementation is inspired by the original GAN paper by Ian Goodfellow et al. (2014) and the Keras GAN example. 
-Special thanks to the Keras and TensorFlow teams for making deep learning accessible and efficient.
