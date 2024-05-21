@@ -1,9 +1,9 @@
-GAN Implementation Using Keras
+GAN Implementation Using Keras---
 This repository contains an implementation of a Generative Adversarial Network (GAN) using Keras, 
 specifically designed to generate handwritten digits similar to those in the MNIST dataset.
 The model is trained for 1000 epochs and saves generated images every 10 epochs, resulting in 100 images.
 
-Introduction
+Introduction:
 Generative Adversarial Networks (GANs) consist of two neural networks: a generator and a discriminator. The generator creates fake data samples,
 while the discriminator tries to distinguish between real and fake samples. Both networks are trained simultaneously in a zero-sum game, improving each other.
 
